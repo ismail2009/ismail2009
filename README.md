@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3qozEdC](https://bit.ly/3qozEdC)
+- 👨‍💻 All of my projects are available at [https://bit.ly/ismail-alsaleh](https://bit.ly/ismail-alsaleh)
 
 - 💬 Ask me about **react, react native, nodejs, aws**
 
